@@ -1,6 +1,9 @@
 # Text files
 *.txt
 
+# Back-up files
+#.bak
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
